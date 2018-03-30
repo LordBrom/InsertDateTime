@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+d"], "command": "insert_date" },
+	{ "keys": ["alt+t"], "command": "insert_time" }
+]

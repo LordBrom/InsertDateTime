@@ -1,0 +1,11 @@
+[
+	{
+		"caption":"Insert Datetime: MM/DD/YY",
+		"command":"insert_date"
+	},
+	{
+		"caption":"Insert Datetime: HH:MM",
+		"command":"insert_time"
+	},
+
+]
